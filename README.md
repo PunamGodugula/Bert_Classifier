@@ -1,4 +1,4 @@
-# Title: Amazon Review Classifier using BERT
+# Title: Sentimental Analysis using BERT
 
 Project Description:
 The "Amazon Review Classifier using BERT" project aims to develop a powerful natural language processing (NLP) model to classify Amazon reviews using the Bidirectional Encoder Representations from Transformers (BERT) architecture,to develop an accurate and efficient classifier that can analyze customer reviews and provide valuable insights for product evaluation and decision-making.
